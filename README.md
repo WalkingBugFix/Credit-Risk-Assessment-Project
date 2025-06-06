@@ -14,5 +14,6 @@ They have hired you as a data scientist and provided you with the financial metr
 
 ![feature_importances](https://github.com/user-attachments/assets/06940365-b19e-4059-bcae-c6faa32ae468)
 
+![heatmap](https://github.com/user-attachments/assets/401f82b2-0da1-4ffb-bc06-d7f330f18ac2)
 
 
